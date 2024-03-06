@@ -15,3 +15,6 @@ export default function RootLayout({ children }) {
     </html>
   );
 }
+// page.js를 감싸는 파일
+// <head> 태크 내용들을 여기에 적는다.
+// 페이지 간에 공유하고 싶은 내용들 ( 상단메뉴 .. 등등)
