@@ -1,7 +1,7 @@
 import Link from "next/link";
 
 export default function Home() {
-  const name = "Jooo";
+  const name = "Jooonnnnn";
   return (
     <div>
       <div className="flex flex-col items-center justify-center h-screen text-center">
