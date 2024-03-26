@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Home() {
   const name = "Jooonnnnn";
   const test1 = "test1";
-
+  const test2 = "test2";
   return (
     <div>
       <div className="flex flex-col items-center justify-center h-screen text-center">
