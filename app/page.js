@@ -4,6 +4,7 @@ export default function Home() {
   const name = "Jooonnnnn";
   const test1 = "test1";
   const test2 = "test2";
+  const test3 = "test3";
   return (
     <div>
       <div className="flex flex-col items-center justify-center h-screen text-center">
